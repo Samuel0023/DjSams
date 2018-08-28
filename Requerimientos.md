@@ -6,4 +6,5 @@ Requerimientos Para La Pagina web
 .ACCESO a Redes Sociales (Facebook,Twitter,Instagram)
 .Indicador de reproducciones y seguidores.
 .Texto descriptivo para cada Cancion
+.Disponinilidad de descargar canciones formato mp4,mkv
 
