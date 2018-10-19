@@ -54,7 +54,7 @@ input, button{
 	display: flex;
 	position: absolute;
 	background-color: rgba(179, 182, 183 ,0.5);
-	width: 1460px;
+	width: 95%;
 	left: 30px;
 	height: 200px;
 }
@@ -74,7 +74,7 @@ aside{
 	top: 440px;
 	position:absolute;
 	display:inline-flex;
-	width: 1490px;
+	width: 93%;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 29px;
 	justify-content: center;
@@ -94,6 +94,7 @@ footer{
 	justify-content: center;
 	font-family: 'Righteous', cursive;
 	font-size: 17px;
+	width: 97%;
 }
 .articleImput{
 	display:flex;
@@ -102,6 +103,7 @@ footer{
 	justify-content: flex-start;
 	align-items: center;
 	height: 40px;
+	width: 100%;
 	font-size: 17px;
 }
 .socialItems{
@@ -109,7 +111,7 @@ footer{
 	width:210px;
     justify-content: space-between;
 	position:relative;
-	left: 1000px;
+	left:62%;
 }
 
 .socialItem{
