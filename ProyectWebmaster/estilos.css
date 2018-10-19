@@ -59,6 +59,9 @@ input, button{
 	height: 200px;
 }
 .subMensaje{
+	display: inline-block;
+	left:10%;
+	position: relative;
 	background-color:rgba(23, 32, 42,0.9);
 	font-family: 'Montserrat', sans-serif;
 	font-size: 40px;
@@ -215,9 +218,9 @@ a:hover{
 	display: inline-flex;
 	position: absolute;
 	padding: 10px;
-	top: 62px;
-	left: 220px;
-	width: 1278px;
+	top: 9%;
+	left: 16%;
+	width: 70%;
 	height:1550px;
 	align-content: flex-start;
 }
@@ -321,8 +324,8 @@ li:hover{
 	
 	padding: 10px;
 	top: 9%;
-	left: 17%;
-	width: 1278px;
+	left: 16%;
+	width: 70%;
 	height:1550px;
 	font-family:'Righteous', cursive;
 
@@ -356,9 +359,9 @@ li:hover{
 	display: inline-flex;
 	position: absolute;
 	padding: 10px;
-	top: 62px;
-	left: 220px;
-	width: 1278px;
+	top: 9%;
+	left: 16%;
+	width: 70%;
 	height:1550px;
 	align-content: flex-start;
 	font-family:'Righteous', cursive;
