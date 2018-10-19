@@ -1,0 +1,33 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+<div class="block">
+				<figcaption>QUINTINO – INFERNO (EXTENDED MIX)</figcaption>
+				<figure><img src="imgTop/top3.jpg"></figure>
+			</div>
+			<div class="block2">
+				<figcaption>DON DIABLO – SURVIVE (FEAT. EMELI SANDÉ & GUCCI MANE) (ORIGINAL MIX)</figcaption>
+				<figure><img src="imgTop/top4.jpg"></figure>
+			</div>
+			<div class="block3">
+				
+			</div>
+			<div class="block2">
+				
+			</div>
+			<div class="block2">
+				
+			</div>
